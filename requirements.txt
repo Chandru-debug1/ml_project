@@ -6,3 +6,12 @@ scikit-learn
 catboost
 xgboost
 #-e .
+
+
+"""git init for github repo 
+#git init 
+git add requirements.txt
+git commit -m "requirements.txt" "Add requirements.txt with necessary libraries"    
+git remote add origin <your-repo-url>
+git push -u origin master """
+
