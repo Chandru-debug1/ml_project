@@ -5,10 +5,15 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+Flask
+
 #-e .
 
 
-"""git init for github repo 
+
+"""#activate virtual environment
+conda activate D:\Ml_project\venv1
+git init for github repo 
 #git init 
 git add requirements.txt
 git commit -m "requirements.txt" "Add requirements.txt with necessary libraries"    
